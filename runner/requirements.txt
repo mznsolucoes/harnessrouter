@@ -9,4 +9,4 @@ pyyaml==6.0.2
 # rather than a shipped one, caught before the tag. The version matches the hosted runner image
 # (docker/runner.Dockerfile.reference). It requires pydantic 2.11, which is why the pin above
 # moved: gateway and runner share one environment in this image.
-mcp==1.28.1
+mcp==1.30.0
